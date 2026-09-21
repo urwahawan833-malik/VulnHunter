@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.png
+*.jpg
+.env
+main_backup.py
